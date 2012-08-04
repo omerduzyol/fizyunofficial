@@ -1,0 +1,5 @@
+{
+    "settings":{"videoPlayback":true, "highQualityOnly":false, "showQueueBadge":true, "enableMultitasking": true, "downloadAlbumArts":true, "repeat":true, "shuffle": false}, 
+"queue":[], 
+"playlists":[] 
+}

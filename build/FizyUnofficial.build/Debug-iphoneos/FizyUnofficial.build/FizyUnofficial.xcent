@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>23NCPSA9U8.net.creaworks.fizyunofficial</string>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array>
+		<string>97V358MFZX.*</string>
+	</array>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>97V358MFZX.*</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>23NCPSA9U8.net.creaworks.fizyunofficial</string>
+	</array>
+</dict>
+</plist>

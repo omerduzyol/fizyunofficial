@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[WebRequestHelper request:method:bodyData:withCachePolicy:]:WebRequestHelper.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Fizy _getPlaylistsCallback:response:]:Fizy.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FizyPlayer clearQueue]:FizyPlayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "songQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FizyPlayer addSongQueue:toBeginning:]:FizyPlayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "songQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "player.songQueue">
+            </PersistentString>
+            <PersistentString
+               value = "songQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QueueViewController tableView:cellForRowAtIndexPath:]:QueueViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "player.songQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
